@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Theostasis</h1>
+<h1 align="center">Hi 👋, I'm Tanay</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJkejJvMGpqZDV2NjZzaXRiYmU5djY4bjFlaWVuY3c1bzFkcGU0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
