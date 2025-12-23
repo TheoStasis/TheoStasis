@@ -10,7 +10,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at https://linktr.ee/tanayshahi
-- ⚡ Fun fact: **I love problem-solving!**
+- ⚡ Fun fact: gimme coke
 
 ---
 
