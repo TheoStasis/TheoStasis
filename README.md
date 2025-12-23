@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=theostasis&label=Profile%20views&color=0e75b6&style=flat" alt="theostasis" /> 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/theostasis](https://linktr.ee/theostasis)
+- 👨‍💻 All of my projects are available at [[https://linktr.ee/theostasis](https://linktr.ee/tanayshahi)]([https://linktr.ee/theostasis](https://linktr.ee/tanayshahi))
 - ⚡ Fun fact: **I love problem-solving!**
 
 ---
